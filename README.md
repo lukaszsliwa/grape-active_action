@@ -15,13 +15,15 @@ Visit the parent [ruby-active_action](https://github.com/lukaszsliwa/active_acti
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'grape-active_action', '~> 3.0.1'
+gem 'grape-active_action', '~> 3.0.6
+'
 ```
 
 or use original gem:
 
 ```ruby
-gem 'ruby-active_action', '~> 3.0.1'
+gem 'ruby-active_action', '~> 3.0.6
+'
 ```
 
 or use alternative gems:
